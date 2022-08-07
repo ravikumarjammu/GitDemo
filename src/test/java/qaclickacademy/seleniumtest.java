@@ -31,6 +31,15 @@ public class seleniumtest {
 		System.out.println("elementsui1");
 		System.out.println("elementsui2");
 	}
+	
+	@Test
+	public void elementsui2()
+	{
+		System.out.println("elementsui");
+		System.out.println("elementsui1");
+		System.out.println("elementsui2");
+	}
+
 
 
 }
