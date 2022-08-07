@@ -20,6 +20,9 @@ public class seleniumtest {
 	public void elementsui()
 	{
 		System.out.println("elementsui");
+		System.out.println("elementsui1");
+		System.out.println("elementsui2");
+		
 	}
 
 }

@@ -12,6 +12,7 @@ public class APItest {
 	public void deletetwitter()
 	{
 		System.out.println("deletetwitter");
+		System.out.println("deletetwitter1");
 	}
 
 }
