@@ -6,9 +6,15 @@ public class seleniumtest {
 	@Test
 	public void BrowserAutomation()
 	{
+		//x
 		System.out.println("BrowserAutomation");
+		//y
 		System.out.println("BrowserAutomation1");
 		System.out.println("BrowserAutomation2");
+		//x
+		System.out.println("BrowserAutomation3");
+		System.out.println("BrowserAutomation4");
+		System.out.println("BrowserAutomation5");
 	}
 	@Test
 	public void elementsui()
